@@ -1,7 +1,7 @@
 # Portfolio - Cahier des Charges (CdC)
 Projet réalisé dans le cadre du Projet Fil Rouge de la première année Bachelor Chef de Projet Digital (FIM CCi Ouest Normandie — campus 2 — Saint-Lô).
 
-## 📄 Document principal
+## Document principal
 * **[Lien vers ton fichier PDF s'il est importé]** - Version complète (106 pages)
 
 ## Historique du document
