@@ -2,7 +2,7 @@
 Projet réalisé dans le cadre du Projet Fil Rouge de la première année Bachelor Chef de Projet Digital (FIM CCi Ouest Normandie — campus 2 — Saint-Lô).
 
 ## Document principal
-* **[https://github.com/LEMON-216/portfolio-cdc/blob/d5c71b72d72fe9e35e01a753001a6b5caf1db905/CDC_Portfolio_Aymen_v5.pdf]** - Version complète (106 pages)
+* **[https://github.com/LEMON-216/portfolio-cdc/blob/main/CDC_Portfolio_Aymen_v5.pdf]** - Version complète (106 pages)
 
 ## Historique du document
 | Version | Date | Notes |
